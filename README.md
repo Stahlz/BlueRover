@@ -1,0 +1,2 @@
+# BlueRover
+A Blue Team Toolkit focused around Enterprise Defense and the concept of "Mise en place". This will be an attempt to automate alot of the collections needed for DFIR. With grabbing and parsing logs for with several format outputs, with the hopes of identifying nasty things in logs. Talking with EDR's, Virustotal, app.any.run, hybrid analysis, passivetotal, etc..Whatever i feel can be done. This will be as project, will take at least a years worth of development, so check back from time to time.
